@@ -5,7 +5,7 @@ CLAUDIO
 =======
  CLICCA QUI_
  
- .. _QUI: http://lol.readthedocs.io/en/latest/README.html?highlight=ciao
+ .. _QUI:http://lol.readthedocs.io/en/latest/README.html?highlight=ciao
 
 
 ciao
