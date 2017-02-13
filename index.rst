@@ -1,10 +1,10 @@
 RICCARDO TI VOGLIAMO BENE
 =========================
-
+wikipedia_
 
 ..contents::
 
-.._Wikipedia: http://www.wikipedia.org/
+.. _Wikipedia: http://www.wikipedia.org/
 ciao
 ----
 - 1
@@ -45,11 +45,11 @@ xxxxx
 =====
 
 ciao come stai clicca qui_
- #.clicca
- #.qui
- #.no
- #.anzi
- #.lì
+ #clicca
+ #qui
+ #no
+ #anzi
+ #lì
  
  .. _qui: https://www.youtube.com/watch?v=otM_tjIi_vY
 
