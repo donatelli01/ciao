@@ -1,10 +1,7 @@
 RICCARDO TI VOGLIAMO BENE
 =========================
 Wikipedia_
-
-..contents::
-
-.. _Wikipedia: http://www.wikipedia.org/
+.. _Wikipedia: https://www.wikipedia.org/
 ciao
 ----
 - 1
