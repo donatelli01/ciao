@@ -1,6 +1,6 @@
 RICCARDO TI VOGLIAMO BENE
 =========================
-wikipedia_
+Wikipedia_
 
 ..contents::
 
