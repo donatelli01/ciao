@@ -5,8 +5,7 @@ CLAUDIO
 =======
  CLICCA CLAUDIO_
  
- .. _CLAUDIO: http://lol.readthedocs.io/en/latest/README.html?highlight=ciao
-
+ .. _CLAUDIO: http://lol.readthedocs.io/en/latest/DOCS/README.html
 
 ciao
 ----
