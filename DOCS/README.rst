@@ -5,5 +5,5 @@ PER ANDARE AVANTI_
 
 o chiama  Martin MCFly
 
-.. _INDIETRO: http://lol.readthedocs.io/en/latest/DOCS/index.html
-.. _AVANTI: http://lol.readthedocs.io/en/latest/DOCS/ciao.html
+.. _INDIETRO: http://ciao.readthedocs.io/en/latest/DOCS/index.html
+.. _AVANTI: http://ciao.readthedocs.io/en/latest/DOCS/ciao.html
