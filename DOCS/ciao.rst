@@ -42,3 +42,10 @@ Example Google Style Python Docstrings
 
 .. literalinclude:: example_google.py
    :language: python
+
+RITORNO
+=======
+
+PER TORNARE INDIETRO_
+
+.. _INDIETRO: http://lol.readthedocs.io/en/latest/DOCS/index.html
