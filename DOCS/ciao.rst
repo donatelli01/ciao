@@ -48,4 +48,4 @@ RITORNO
 
 PER TORNARE INDIETRO_
 
-.. _INDIETRO: http://lol.readthedocs.io/en/latest/DOCS/index.html
+.. _INDIETRO: http://ciao.readthedocs.io/en/latest/DOCS/index.html
